@@ -1,4 +1,6 @@
-# meiyoufan-tip
+## 来至TIGERB的github
+原github地址：<https://github.com/TIGERB/easy-tips>
+
 <h1 align="center">Easy Tips</h1>
 
 <p align="center">
@@ -302,10 +304,6 @@ count值为：1
 因为国外开发者的要求和个人的时间有限，征集大家有兴趣的可以把本项目进行英文版翻译。希望国外的developer也可以受益于这个项目～
 
 翻译文件认领申请：<https://github.com/TIGERB/easy-tips/issues/36>
-
-## 赞赏
-
-<img src="money-qrcode.jpg" width="300px">
 
 ## 感谢
 
